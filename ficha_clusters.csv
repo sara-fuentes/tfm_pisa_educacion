@@ -1,0 +1,93 @@
+Grupo Indicadores,Indicador,Estadístico,0,1,2,3,4
+General,Clúster,Tamaño,6775.0,6065.0,4383.0,7388.0,3824.0
+Padres,Impl. emocional - padres,Media,1.730849845047227,1.7638386030341742,0.8664848276970242,1.817807986551486,1.120917973333787
+Padres,Impl. emocional - padres,Desviación,0.3707101068898806,0.29636146150121706,0.4239313236701714,0.2718048855975909,0.5566093631746576
+Padres,Impl. emocional - padres,Mínimo,0.0,0.25,0.0,0.25,0.0
+Padres,Impl. emocional - padres,Perc. 25,1.5,1.5,0.5,1.75,0.75
+Padres,Impl. emocional - padres,Perc. 50,2.0,1.7845579394911377,1.0,2.0,1.0
+Padres,Impl. emocional - padres,Perc. 75,2.0,2.0,1.0,2.0,1.5
+Padres,Impl. emocional - padres,Máximo,2.0,2.0,2.0,2.0,2.0
+Padres,Impl. educación - padres,Media,2.885716086397608,2.7721953472821763,1.8706010375795328,2.9156025670957257,1.9244176140951574
+Padres,Impl. educación - padres,Desviación,1.0144866978823037,1.0065667143086288,1.0505321347918732,0.9615891090551979,1.1116693766039538
+Padres,Impl. educación - padres,Mínimo,0.0,0.0,0.0,0.0,0.0
+Padres,Impl. educación - padres,Perc. 25,2.0,2.0,1.0,2.0,1.0
+Padres,Impl. educación - padres,Perc. 50,3.0,3.0,2.0,3.0,2.0
+Padres,Impl. educación - padres,Perc. 75,4.0,3.75,2.5,4.0,2.6666666666666665
+Padres,Impl. educación - padres,Máximo,4.0,4.0,4.0,4.0,4.0
+Padres,Libertad - padres,Media,1.370291447331604,1.5532547044107399,1.0345923512453767,1.6317891447851138,1.0681010579941321
+Padres,Libertad - padres,Desviación,0.34879719464738607,0.3177803933043065,0.4131491983401442,0.30267771908220736,0.3687689142827466
+Padres,Libertad - padres,Mínimo,0.0,0.25,0.0,0.5,0.0
+Padres,Libertad - padres,Perc. 25,1.0,1.25,0.75,1.5,1.0
+Padres,Libertad - padres,Perc. 50,1.5,1.5,1.0,1.75,1.0
+Padres,Libertad - padres,Perc. 75,1.516258195068139,1.75,1.25,1.75,1.25
+Padres,Libertad - padres,Máximo,2.0,2.0,2.0,2.0,2.0
+Padres,Satisfacción relación - padres,Media,2.4903570034084597,2.3776558080061485,1.4015872076405114,2.5550713719844347,1.7290751450583182
+Padres,Satisfacción relación - padres,Desviación,0.57122617875298,0.5638547139535234,0.7407975589136317,0.5454967193500863,0.8394759164430033
+Padres,Satisfacción relación - padres,Mínimo,0.0,0.0,0.0,0.0,0.0
+Padres,Satisfacción relación - padres,Perc. 25,2.0,2.0,1.0,2.0,1.0
+Padres,Satisfacción relación - padres,Perc. 50,3.0,2.0,1.0,3.0,2.0
+Padres,Satisfacción relación - padres,Perc. 75,3.0,3.0,2.0,3.0,2.0
+Padres,Satisfacción relación - padres,Máximo,3.0,3.0,3.0,3.0,3.0
+Profesores,Impl. emocional - profesores,Media,2.140691592959998,1.4873377874878133,1.6414416440119872,2.172764704764748,1.2398895934763217
+Profesores,Impl. emocional - profesores,Desviación,0.521067695178138,0.5812393820060977,0.6069789695402039,0.4845592184400865,0.7250631012116863
+Profesores,Impl. emocional - profesores,Mínimo,0.0,0.0,0.0,0.0,0.0
+Profesores,Impl. emocional - profesores,Perc. 25,2.0,1.0,1.3333333333333333,2.0,0.6666666666666666
+Profesores,Impl. emocional - profesores,Perc. 50,2.0,1.5,1.6666666666666667,2.0,1.3333333333333333
+Profesores,Impl. emocional - profesores,Perc. 75,2.5,2.0,2.0,2.5,2.0
+Profesores,Impl. emocional - profesores,Máximo,3.0,3.0,3.0,3.0,3.0
+Profesores,Impl. educación - profesores,Media,2.3340208760826306,1.4791820387943488,1.8741034457970338,2.403891915674096,1.4673106963032423
+Profesores,Impl. educación - profesores,Desviación,0.6973889847872605,0.7885637893066131,0.8230568966192673,0.6303229559036342,0.858077047503132
+Profesores,Impl. educación - profesores,Mínimo,0.0,0.0,0.0,0.0,0.0
+Profesores,Impl. educación - profesores,Perc. 25,2.0,1.0,1.25,2.0,1.0
+Profesores,Impl. educación - profesores,Perc. 50,2.5,1.5,2.0,2.5,1.5
+Profesores,Impl. educación - profesores,Perc. 75,3.0,2.0,2.5,3.0,2.0
+Profesores,Impl. educación - profesores,Máximo,3.0,3.0,3.0,3.0,3.0
+Profesores,Simpatía - profesores,Media,2.3336304002395356,1.8680325736309413,2.1254498853329036,2.48812372896803,1.5292923601578792
+Profesores,Simpatía - profesores,Desviación,0.5086084413988625,0.4673506020257509,0.4732206634051131,0.4667706951765741,0.7093026794289028
+Profesores,Simpatía - profesores,Mínimo,0.0,0.0,0.0,0.0,0.0
+Profesores,Simpatía - profesores,Perc. 25,2.0,2.0,2.0,2.0,1.0
+Profesores,Simpatía - profesores,Perc. 50,2.0,2.0,2.0,2.5,2.0
+Profesores,Simpatía - profesores,Perc. 75,3.0,2.0,2.272356473900051,3.0,2.0
+Profesores,Simpatía - profesores,Máximo,3.0000000000000004,3.0,3.0,3.0,3.0
+Profesores,Maldad - profesores,Media,0.5105118534874685,0.7958199020410097,0.5596147954345416,0.29789387450077814,1.131171433382957
+Profesores,Maldad - profesores,Desviación,0.5241695843373521,0.5201351566772514,0.49605750528019094,0.3891560653605213,0.7275843255770613
+Profesores,Maldad - profesores,Mínimo,0.0,0.0,0.0,0.0,0.0
+Profesores,Maldad - profesores,Perc. 25,0.0,0.4389442796456093,0.0,0.0,0.779746520620001
+Profesores,Maldad - profesores,Perc. 50,0.4514195660638476,1.0,0.5722392327079591,0.0,1.0
+Profesores,Maldad - profesores,Perc. 75,1.0,1.0,1.0,0.5692478595058821,1.3133818518511706
+Profesores,Maldad - profesores,Máximo,3.0,3.0,3.0,3.0,3.0
+Profesores,Intimidación - profesores,Media,0.5157539065865103,0.9025965429809916,0.758791646872332,0.5329940703091476,0.8880142946653636
+Profesores,Intimidación - profesores,Desviación,0.5443671209130521,0.6256846261912256,0.6029287289975482,0.52195681999323,0.7351644517380077
+Profesores,Intimidación - profesores,Mínimo,0.0,0.0,0.0,0.0,0.0
+Profesores,Intimidación - profesores,Perc. 25,0.0,0.5345863004386328,0.1893663485557795,0.0,0.35357440511583915
+Profesores,Intimidación - profesores,Perc. 50,0.42466331008783814,1.0,0.8673824951818072,0.5194971564769724,0.9873109156281179
+Profesores,Intimidación - profesores,Perc. 75,1.0,1.0,1.0,1.0,1.0
+Profesores,Intimidación - profesores,Máximo,3.0,3.0,3.0,3.0,3.0
+Profesores,Satisfacción relación - profesores,Media,2.2314066189155475,1.6610531516792915,1.7085424327237713,2.2586970773309156,1.36306775939219
+Profesores,Satisfacción relación - profesores,Desviación,0.528456253572673,0.6203757489091831,0.6163412126486485,0.49527560375951635,0.822646260989963
+Profesores,Satisfacción relación - profesores,Mínimo,0.0,0.0,0.0,0.0,0.0
+Profesores,Satisfacción relación - profesores,Perc. 25,2.0,1.0,1.0,2.0,1.0
+Profesores,Satisfacción relación - profesores,Perc. 50,2.0,2.0,2.0,2.0,1.0
+Profesores,Satisfacción relación - profesores,Perc. 75,3.0,2.0,2.0,3.0,2.0
+Profesores,Satisfacción relación - profesores,Máximo,3.0,3.0,3.0,3.0,3.0
+Resultados académicos,VP matemáticas,Media,417.4961958671587,508.25689724649624,517.8181485968514,555.3390107200867,399.08569884937236
+Resultados académicos,VP matemáticas,Desviación,48.78401456644155,48.83440918534227,57.06265355338493,51.57829831705372,54.854366142249134
+Resultados académicos,VP matemáticas,Mínimo,205.05300000000003,346.75169999999997,333.4035,406.6698,201.88670000000002
+Resultados académicos,VP matemáticas,Perc. 25,386.02545,474.28779999999995,477.88030000000003,516.99815,360.62474999999995
+Resultados académicos,VP matemáticas,Perc. 50,422.74629999999996,505.33020000000005,515.3888999999999,551.4856500000001,400.8768
+Resultados académicos,VP matemáticas,Perc. 75,452.672,540.3307000000001,556.11265,590.110825,437.73095
+Resultados académicos,VP matemáticas,Máximo,549.9543,691.0605,773.4582,738.3782,576.2783999999999
+Resultados académicos,VP lectura,Media,418.7460901254612,508.40644776586976,524.2841651380334,557.6490591635084,387.258235747908
+Resultados académicos,VP lectura,Desviación,54.58702952624208,52.68138655801283,60.107776377718395,52.4260240805336,62.10035426577289
+Resultados académicos,VP lectura,Mínimo,121.82079999999999,306.2261,307.52750000000003,389.7239,153.8208
+Resultados académicos,VP lectura,Perc. 25,383.13475000000005,472.3378000000001,481.07695,520.3738249999999,346.275825
+Resultados académicos,VP lectura,Perc. 50,423.3998,505.83629999999994,522.2492,555.0725,390.23794999999996
+Resultados académicos,VP lectura,Perc. 75,458.7863,542.3014000000001,564.1888000000001,593.375675,431.45054999999996
+Resultados académicos,VP lectura,Máximo,570.7510000000001,708.3452999999998,736.9687,759.5744000000001,569.3065999999999
+Resultados académicos,VP ciencia,Media,424.14836804428046,515.3770730255565,533.8504561715721,565.8153749187873,404.18767662133894
+Resultados académicos,VP ciencia,Desviación,50.469498011528316,50.642646933165224,57.9633442032819,51.97468000557083,57.01973719586505
+Resultados académicos,VP ciencia,Mínimo,198.71120000000002,356.8785,344.2342,426.6037,172.372
+Resultados académicos,VP ciencia,Perc. 25,391.10265,481.21729999999997,493.13855,527.323625,365.02985
+Resultados académicos,VP ciencia,Perc. 50,428.98859999999996,512.2633,530.2009,562.7174500000001,405.6488
+Resultados académicos,VP ciencia,Perc. 75,461.75429999999994,547.7139999999999,572.6994500000001,600.311025,444.46795
+Resultados académicos,VP ciencia,Máximo,565.5015000000001,740.5876999999999,729.4587,767.643,586.2099
